@@ -25,8 +25,6 @@ computer_vision/
 
 새 실습은 `02_xxx/` 처럼 번호를 붙인 폴더로 추가합니다. 패키지는 루트 `pyproject.toml`에 한 번만 설치하면 모든 실습 폴더에서 같은 `.venv`를 사용합니다.
 
-## 실습 목록
-
-| 번호 | 폴더 | 내용                                                                |
-|---|---|---------------------------------------------------------------------|
-| 1 | `01_computer_vision_cnn/` | 이미지 불러오기, numpy 변환, 픽셀 값과 RGB 채널 분리, CNN 기초 구현 |
+| 번호 | 폴더 | 내용 | 참조 |
+|:---:|---|---|:---:|
+| 1 | `01_computer_vision_cnn/` | 이미지 불러오기, numpy 변환, 픽셀 값과 RGB 채널 분리, CNN 기초 구현 | [코드 보기](https://github.com/SongBeom00/computer-vision/tree/main/01_computer_vision_cnn) |
